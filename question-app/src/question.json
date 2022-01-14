@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Tag yang digunakan untuk membuat navigasi web",
+        "options": [
+            {
+                "id": 1,
+                "value": "header"
+            },
+            {
+                "id": 2,
+                "value": "nav"
+            },
+            {
+                "id": 3,
+                "value": "navigation"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Yang merupakan bahasa pemrograman",
+        "options": [
+            {
+                "id": 1,
+                "value": "Java"
+            },
+            {
+                "id": 2,
+                "value": "Ruby"
+            },
+            {
+                "id": 3,
+                "value": "JavaScript"
+            },
+            {
+                "id": 4,
+                "value": "JSON"
+            },
+            {
+                "id": 5,
+                "value": "XML"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Web framework front-end",
+        "options": [
+            {
+                "id": 1,
+                "value": "Vue"
+            },
+            {
+                "id": 2,
+                "value": "Express"
+            },
+            {
+                "id": 3,
+                "value": "Nest"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Yang bukan merupakan built-in React Hooks",
+        "options": [
+            {
+                "id": 1,
+                "value": "useEffect"
+            },
+            {
+                "id": 2,
+                "value": "useReducer"
+            },
+            {
+                "id": 3,
+                "value": "useFetch"
+            }
+        ]
+    }
+]
